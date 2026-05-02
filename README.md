@@ -1,16 +1,40 @@
 # React + Vite
+Live Demo: https://navoriqeats.netlify.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About
+Navoriq Eats is a modern restaurant and food ordering UI built using React and Vite.
+It provides a clean and responsive interface for browsing menus, exploring dishes, and enhancing user experience.
 
-Currently, two official plugins are available:
+## Installation
+npm install
+npm run dev
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Preview
 
-## React Compiler
+<p align="center">
+  <img src="./file/navoriqeats.png" width="65%" />
+</p>
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+<p align="center">
+  <img src="./file/navoriqeats1.png" width="32%" />
+  <img src="./file/navoriqeats2.png" width="32%" />
+  <img src="./file/navoriqeats3.png" width="32%" />
+</p>
+<p align="center">
+  <img src="./file/res1.png" height="200" />
+  <img src="./file/res2.png" height="200" />
+  <img src="./file/res3.png" height="200" />
+  <img src="./file/res4.png" height="200" />
+  <img src="./file/res5.png" height="200" />
+  <img src="./file/res6.png" height="200" />
+</p>
 
-## Expanding the ESLint configuration
+<p align="center">
+  <img src="./file/res7.png" height="200" />
+  <img src="./file/res8.png" height="200" />
+  <img src="./file/res9.png" height="200" />
+  <img src="./file/res10.png" height="200" />
+</p>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
