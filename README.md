@@ -1,5 +1,5 @@
 # React + Vite
-Live Demo: https://navoriqeats.netlify.app/
+Live Demo: https://navoriq-eats.vercel.app/
 
 ## About
 Navoriq Eats is a modern restaurant and food ordering UI built using React and Vite.
